@@ -1,7 +1,4 @@
-
-# coding: utf-8
-
-# In[5]:
+#codigo aula 1 
 
 
 #Atividade 1
@@ -14,7 +11,6 @@ area = altura * largura
 print("perimetro:", perimetro, "-", " area:", area)
 
 
-# In[81]:
 
 
 #Atividade 2
@@ -43,8 +39,6 @@ else:
                 print("O Valor a ser pago será de: ", total , "Parcelado de 3x com 10% de juros")   
 
 
-# In[77]:
-
 
 #Atividade 3
 
@@ -65,7 +59,6 @@ else:
                 print("obeso")
 
 
-# In[79]:
 
 
 #Atividade 4
@@ -100,7 +93,6 @@ else:
     print("Nenhum mês correspondente com o ", mes)
 
 
-# In[84]:
 
 
 #Atividade 5
@@ -125,7 +117,6 @@ elif operacao == 4:
 print("Resultado: ", resultado)
 
 
-# In[88]:
 
 
 #Atividade 6
@@ -138,7 +129,6 @@ print('Indice pluviométrico médio:',sum(pluviometrico)/len(pluviometrico))
 print('Indice pluviométrico máximo:',max(pluviometrico),'| Dia de ocorrência:',pluviometrico.index(max(pluviometrico))+1)
 
 
-# In[92]:
 
 
 #Atividade 7
@@ -157,7 +147,6 @@ while(idade > 0):
 print("O número de habitante do sexo feminino entre 18 e 35 anos é de: ", feminino)
 
 
-# In[93]:
 
 
 #Atividade 8
@@ -172,7 +161,6 @@ while massa > 0.5:
 print('Massa Inicial: ', massaInic ,' gramas\n Massa Final: ', massa ,' gramas\n Tempo decorrido: ' , tempo ,' segundos') 
 
 
-# In[ ]:
 
 
 #Atividade 9
